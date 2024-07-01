@@ -2,4 +2,4 @@
 
 # [MP07 UF02 - Correu electrònic i transmissió d'arxius](act-mp07-uf02.md)
 
-# [MP07 UF03 - Servidor web i servidor intermediari o proxy](./act-mp07-uf03.md)# nou-smx
+# [MP07 UF03 - Servidor web i servidor intermediari o proxy](./act-mp07-uf03.md)
